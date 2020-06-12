@@ -7,6 +7,6 @@ Evaluate the sum of all the amicable numbers under 10000.
 
 
 #### Tradução (Português Brasileiro):
-Seja d(n) definida como a soma dos divisores próprio de n ( divisores de n inferiores a n).
+Seja d(n) definida como a soma dos divisores próprios de n ( divisores de n inferiores a n).
 Se d(a) = b e d(b) = a, com a ≠ b, a e b formam um par amigável, logo a e b são chamados de números amigos ou amigáveis. Por exemplo, os divisores próprios de 220 são: 1, 2, 4, 5, 10, 11, 20, 22, 44, 55 e 110; portanto d(220) = 284. Os divisores próprios de 284 são: 1, 2, 4, 71 e 142; logo, d(284) = 220. Calcule a soma de todos os pares amigáveis inferiores a 10000.
     
