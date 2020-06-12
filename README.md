@@ -4,7 +4,7 @@ Este repositório destina-se as resoluções dos problemas propostos pelo [Proje
 
 ### Linguagem de programação utilizadas:
   
-  * Python
-  * C
-  * Java
+  * Python (atualmete)
+  * C (futuramente)
+  * Java (futuramente)
    
